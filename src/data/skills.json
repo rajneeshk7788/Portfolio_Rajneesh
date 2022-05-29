@@ -1,0 +1,32 @@
+{
+  "skills": [
+    {
+      "id": 0,
+      "skillName": "Design",
+      "amount": "85"
+    },
+    {
+      "id": 1,
+      "skillName": "React.js",
+      "amount": "80"
+    },
+   
+    { "id": 3, "skillName": "Javascript", "amount": "80" },
+    {
+      "id": 4,
+      "skillName": "Node.js",
+      "amount": "50"
+    },
+    {
+      "id": 5,
+      "skillName": "REST",
+      "amount": "60"
+    },
+    
+    {
+      "id": 8,
+      "skillName": "Backend",
+      "amount": "60"
+    }
+  ]
+}
